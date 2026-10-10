@@ -9,7 +9,8 @@
 ## Architecture Overview
 
 ```mermaid
-flowchart TD
+ 
+graph TB
     subgraph SOURCES["① Multi-Source Knowledge Capture"]
         direction TB
         S1["Notes — Scattered .md & docs"]
