@@ -262,9 +262,7 @@ Practical applications include auto research briefs, content repurposing, onboar
 
 Concepts and techniques in this architecture draw on learnings from:
 
-- **Ed Donner** — [LLM Engineering: Master AI, Large Language Models & Agents](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/) (Udemy)
-- **Ed Donner** — [AI Product Development: Build LLM Apps & AI Agents](https://www.udemy.com/course/ai-product-development/) (Udemy)
-- **Krish Naik** — [AWS Bedrock Projects & Generative AI](https://www.udemy.com/user/krishnaik/) (Udemy)
+- **Prof. Ryan Ahmed** — [The Complete Claude Code & Claude Cowork Masterclass](https://www.udemy.com/course/claude-aiagents-cowork-masterclass/) (Udemy) 
 
 ---
 
